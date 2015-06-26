@@ -9,6 +9,8 @@ Plugin 'gmarik/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 "AIRLINE
 Plugin 'bling/vim-airline'
+"vim-go
+Plugin 'fatih/vim-go'
 
 call vundle#end()
 filetype plugin indent on
